@@ -1,3 +1,5 @@
+name: GitHUb actions
+
 on:
   push:
     branches: [ main ]
